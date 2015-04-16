@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Willkommen auf den Seiten des neuen Xontormia Express"
+title: "Der Xontormia Express ist zurück"
 date: 2015-04-15 15:37:29 +0200
 comments: true
 categories: xe, blog
